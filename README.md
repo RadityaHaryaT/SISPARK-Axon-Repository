@@ -2,11 +2,11 @@
 
 ## 1. Proses Bisnis
 
-Proses bisnis SISPARK dimulai ketika pengendara ingin mencari tempat parkir. Sistem menampilkan informasi ketersediaan slot parkir melalui peta berbasis web. Sensor IoT mendeteksi status slot parkir dan mengirimkan data ke server agar informasi dapat diperbarui. Pengendara dapat memilih slot yang tersedia dan mencoba melakukan reservasi. Pengelola parkir dapat memantau kondisi slot melalui ringkasan okupansi.
+Proses bisnis SISPARK dimulai ketika pengendara ingin mencari tempat parkir. Sistem menampilkan informasi ketersediaan slot parkir melalui peta berbasis web. Sensor IoT mendeteksi status slot parkir dan mengirimkan data ke server agar informasi dapat diperbarui. Pengendara dapat memilih slot yang tersedia dan mencoba melakukan reservasi. 
 
 ## 2. Masalah
 
-Pengendara sering mengalami kesulitan mengetahui ketersediaan tempat parkir secara langsung sehingga harus berkeliling mencari slot kosong. Hal ini membuang waktu dan bahan bakar serta berpotensi menyebabkan kemacetan. Di sisi lain, pengelola parkir membutuhkan informasi okupansi yang akurat dan terkini untuk memantau penggunaan area parkir.
+Pengendara sering mengalami kesulitan mengetahui ketersediaan tempat parkir secara langsung sehingga harus berkeliling mencari slot kosong. Hal ini membuang waktu dan bahan bakar serta berpotensi menyebabkan kemacetan. 
 
 ## 3. Pelaku (Aktor)
 
