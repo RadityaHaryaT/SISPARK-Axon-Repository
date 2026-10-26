@@ -11,16 +11,18 @@ Pengendara sering mengalami kesulitan mengetahui ketersediaan tempat parkir seca
 ## 3. Pelaku (Aktor)
 
 - **Pengendara:** Melihat ketersediaan slot parkir dan memilih atau melakukan reservasi slot.
-- **Pengelola/Petugas Parkir:** Memantau status slot dan ringkasan okupansi parkir.
-- **Sensor IoT:** Mendeteksi status slot parkir dan mengirimkan data ke sistem.
 
 ## 4. Solusi Awal
 
-SISPARK dirancang sebagai aplikasi berbasis web yang terintegrasi dengan sensor IoT untuk menampilkan ketersediaan slot parkir secara real-time. Solusi awal mencakup:
-1. Peta informasi slot parkir yang tersedia dan terisi.
-2. Pembaruan status slot berdasarkan data sensor IoT atau simulasi.
-3. Fitur pemilihan dan reservasi slot parkir.
-4. Ringkasan okupansi untuk membantu pengelola memantau kondisi parkir.
+SISPARK merupakan website informasi parkir yang dirancang untuk membantu pengendara mengetahui ketersediaan slot parkir dan melakukan reservasi secara lebih mudah. Website terintegrasi dengan sistem sensor IoT untuk memperoleh informasi status slot parkir sehingga pengendara dapat menentukan pilihan sebelum tiba di lokasi.
+
+Fitur utama yang direncanakan meliputi:
+1. Menampilkan peta ketersediaan slot parkir.
+2. Menampilkan status slot parkir kosong dan terisi.
+3. Memungkinkan pengendara memilih dan melakukan reservasi slot yang tersedia.
+4. Menampilkan konfirmasi reservasi kepada pengendara.
+
+Pengembangan difokuskan pada website untuk pengendara dan tidak mencakup dashboard khusus operator parkir. 
 
 ## 5. Anggota Kelompok
 
