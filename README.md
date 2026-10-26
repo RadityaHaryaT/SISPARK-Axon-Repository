@@ -35,4 +35,4 @@ Pengembangan difokuskan pada website untuk pengendara dan tidak mencakup dashboa
 
 ## 6. Tujuan Proyek
 
-SISPARK bertujuan mempermudah pengendara menemukan slot parkir yang tersedia, mengurangi waktu pencarian parkir, serta membantu pengelola memantau okupansi melalui informasi yang terintegrasi dan terkini.
+SISPARK bertujuan mempermudah pengendara menemukan slot parkir yang tersedia, mengurangi waktu pencarian parkir sehingga dapat mencegah / mengurangi kemacetan pada kota di jam sibuk.
